@@ -1,0 +1,86 @@
+html
+{
+	background-color: #5ae050;
+}
+
+h2
+{
+	font-family: 'Bungee Shade';
+}
+p
+{
+	font-family: 'Fresca', 'serif';
+	font-size: 22px;
+}
+
+
+.logo
+{
+	width: 200px;
+	display: block;
+	margin: auto;
+}
+
+.date
+{ 
+  float: right;
+}
+
+.menu_list
+{
+	list-style: none;
+	background-color: #ef1364;
+	height: 50px;
+}
+.menu_option
+{
+	display: inline-block;
+	height: inherit;
+	width: 100px;
+	background-color: #ef1364;
+
+}
+.menu_option:hover
+{
+  background-color:#b2ff9e ;
+}
+
+.link 
+{
+  color: #ef99b9;
+  display: inline-block;/* must be inline-block for height to take effect*/
+  background-color: inherit;
+  text-decoration: none;
+  height: 50px;
+}
+.top3
+{
+	width: 400px;
+}
+.tightwrap
+{
+	display: block;
+	margin:auto;
+	width: 1300px;
+}
+
+.bottomLeft
+{
+	float: left;
+	width: 400px;
+}
+
+.bottomRight
+{
+	float: right;
+	width: 400px;
+}
+.bottomCenter
+{
+	display: inline-block;
+	width: 400px;
+}
+.tightwrap
+{
+	margin: auto;
+}
